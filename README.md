@@ -1,5 +1,5 @@
 # BleedingToothResearchs
-My own exploit of the BleedingTooth vulnerability
+My own exploit for the BleedingTooth vulnerability
 
 The bug was found by Andy Nguyen but I decide to take it as a challenge for myself as i always wanted
 to develop an exploit for remote kernel vulns and as a pratical real exploit for my freebsd blogpost serie at 
